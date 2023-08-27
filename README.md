@@ -130,3 +130,4 @@
 | Structure Learning of Latent Factors via Clique Search on Correlation Thresholded Graphs | [here](https://openreview.net/forum?id=KVmFqS1cMP) | Dale Kim, Qing Zhou |
 | Demystifying Uneven Vulnerability of Link Stealing Attacks against Graph Neural Networks | [here](https://openreview.net/forum?id=FQzJ3zBYLO) | He Zhang, Bang Wu, Shuo Wang, Xiangwen Yang, Minhui Xue, Shirui Pan, Xingliang YUAN |
 | Towards Deep Attention in Graph Neural Networks: Problems and Remedies | [here](https://openreview.net/forum?id=GESSdu0RIA) | Soo Yong Lee, Fanchen Bu, Jaemin Yoo, Kijung Shin |
+| WL meet VC | [here](https://openreview.net/forum?id=rZN3mc5m3C) | Christopher Morris, Floris Geerts, Jan M Tönshoff, Martin Grohe |
